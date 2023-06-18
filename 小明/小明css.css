@@ -1,0 +1,192 @@
+.xiaom {
+    font-size: 35px;
+    float: left;
+    margin-right: 500px;
+    color: rgb(123, 123, 123);
+    margin-top: 10px;
+  }
+  #hezi {
+    margin: auto;
+    width: 1100px;
+  }
+  .juz {
+    width: 100%;
+    height: 100px;
+    margin: auto;
+    position: fixed;
+    top: 0px;
+    box-shadow: 2px 2px 30px rgb(43, 36, 36);
+  }
+  .layui-nav .layui-nav-item a {
+    color: rgb(84, 84, 84);
+    float: left;
+    margin-top: 15px;
+    font-size: 25px;
+  }
+  .layui-icon-search:before{
+    color: black;
+    margin-top: 15px;
+    float: left;
+    font-size: 25px;
+  }
+  .layui-nav {
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    margin: auto;
+    position: fixed;
+  }
+  .layui-icon {
+    color: #727272;
+  }
+  .maxbox{
+    width:100%;
+    margin: 20px 0 0 0;
+    margin-top: 100px;
+  }
+  .wuhz{
+    width: 1200px;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.4), 5px 0px 5px rgba(0, 0, 0, 0.4);
+    background-color: rgb(255, 255, 255);
+    margin: auto; 
+     margin-top: 55px;
+  }
+  .wuhz:hover{
+    width: 1210px;
+    height: 260px;
+    box-shadow:13px 17px 29px 16px rgba(0, 0, 0, 0.4), 5px 0px 5px rgba(0, 0, 0, 0.4);
+  }
+  .float{
+    width: 1200px;
+    height: 130px;
+    margin: auto;
+    margin-top: 175px;
+  }
+  .float p{
+    text-align: center;
+    font-size: 20px;
+  }
+  .xiayy{
+    float: right;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+    background-color: aliceblue;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4), 5px 0px 5px rgba(0, 0, 0, 0.4);
+  }
+  .xiayyd{
+    float: left;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 6px;
+    background-color: aliceblue;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4), 5px 0px 5px rgba(0, 0, 0, 0.4);
+  }
+  .xiayy:hover{
+    background-color: aquamarine;
+    color: #000
+  }
+  .xiayyd:hover{
+    background-color: aquamarine;
+    color: #000
+  }
+  .hz{
+    width: 400px;
+    /* height: 130px; */
+    margin: auto;
+    margin-top: 50px;
+  }
+  .sj{
+    font-size: 40px;
+    float: left;
+    margin: 40px 0px 0px 30px;
+  }
+  .ssj{
+    font-size: 20px;
+    float: left;
+    margin: 120px 0px 0px -165px;
+  }
+  .ssrj{
+    font-size: 20px;
+    float: left;
+    margin: 16px 0px 0px 35px;
+  }
+  .ssjd{
+    font-size: 20px;
+    float: left;
+    margin: 16px 0px 0px 35px;
+  }
+  .bva{
+    width: 350px;
+    float: left;
+    font-size: 20px;
+    margin: 170px 0px 0px -400px;
+  }
+  .bvas{
+    width: 350px;
+    float: left;
+    font-size: 20px;
+    margin: 100px 0px 0px -1165px;
+  }
+  .bvass{
+    width: 350px;
+    float: left;
+    font-size: 20px;
+    margin: 100px 0px 0px -610px;
+  }
+  .yuedqw{
+    float: right;
+    font-size: 20px;
+    margin-right: -700px;
+  }
+  .yuedqwq{
+    float: right;
+    font-size: 20px;
+    margin-right: -700px;
+  }
+  .layui-icons{
+    font-size: 35px;
+    font-family: layui-icon!important;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+  }
+  .centes{
+    width: 1100px;
+    height: 100px;
+    margin: auto;
+    border-bottom:1px black solid ;
+  }
+  .h1{
+    font-size: 40px;
+    margin-top: 20px;
+  }
+  .h2{
+    font-size: 25px;
+    margin-top: 20px;
+  }
+  .h2 span{
+    margin-left: 700px;
+  }
+  .name{
+    width: 1100px;
+    height: 145px;
+    margin: auto;
+  }
+  .wuhzs{
+   
+    width: 1200px;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4), 5px 0px 5px rgba(0, 0, 0, 0.4);
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+     margin-top: 250px; 
+  }
+  .wuhzs:hover{
+    width: 1210px;
+    height: 260px;
+    box-shadow: 0px 0px 5px  rgb(43, 36, 36);
+  }
